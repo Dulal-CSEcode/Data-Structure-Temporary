@@ -3,3 +3,7 @@
 ### Live Date and Time
 
 To see the live date and time, visit [this page](https://Dulal-CSEcode.github.io/Data-Structure-Temporary/).
+# Welcome to My GitHub Page!
+
+To view the live date and time, visit [this page](https://Dulal-CSEcode.github.io/Data-Structure-Temporary/).
+
