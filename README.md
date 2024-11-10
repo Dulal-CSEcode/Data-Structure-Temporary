@@ -5,5 +5,5 @@
 To see the live date and time, visit [this page](https://Dulal-CSEcode.github.io/Data-Structure-Temporary/).
 # Welcome to My GitHub Page!
 
-To the live date and time, visit [this page](https://Dulal-CSEcode.github.io/Data-Structure-Temporary/).
+To the and time, visit [this page](https://Dulal-CSEcode.github.io/Data-Structure-Temporary/).
 
