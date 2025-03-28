@@ -1,5 +1,5 @@
 /**
- * @file dulal 2
+ * @file dulal 3
  * @brief [Linear Search with Sentinel](https://en.wikipedia.org/wiki/Linear_search#With_a_sentinel) algorithm implementation
  * @details
  * This algorithm saves the last element of the array, 
