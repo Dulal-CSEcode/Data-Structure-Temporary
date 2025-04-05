@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-//Dulal 333oooooo
+//Dulal 333ooooooooo
 
 #define ELEMENT_NR 20000
 #define ARRAY_LEN(x) (sizeof(x) / sizeof((x)[0]))
